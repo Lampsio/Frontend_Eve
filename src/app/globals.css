@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 400px) {
+    .pt-96-small {
+      padding-top: 24rem; /* 96 * 0.25rem = 24rem */
+    }
+  }
+
+  @media (max-width: 400px) {
+    .pt-96-small2 {
+      padding-left: 0px;
+      padding-right: 0px; 
+    }
+  }
