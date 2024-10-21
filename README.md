@@ -1,3 +1,14 @@
+# Eve Singer Website - Frontend Project
+
+This project is a **frontend web application** built using **Next.js**, based on the theme of the japanese singer "Eve". 
+
+<img src="Zrzut1.jpeg" alt="JavaPaint Screenshot">
+<img src="Zrzut2.jpeg" alt="JavaPaint Screenshot">
+<img src="Zrzut3.jpeg" alt="JavaPaint Screenshot">
+<img src="Zrzut4.jpeg" alt="JavaPaint Screenshot">
+<img src="Zrzut5.jpeg" alt="JavaPaint Screenshot">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
